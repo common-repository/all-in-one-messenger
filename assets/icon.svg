@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="AiOM_Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+     y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+
+    <style><![CDATA[
+        .st0{fill:#94DA5F;}
+        .st1{fill:#FFFFFF;}
+#Point1 {
+transform-origin: center;
+animation: Pulse1 800ms linear infinite normal forwards;
+animation-delay: 0.2s;
+}
+
+#Point2 {
+transform-origin: center;
+animation: Pulse2 800ms linear infinite normal forwards;
+animation-delay: 0.4s;
+}
+
+#Point3 {
+transform-origin: center;
+animation: Pulse1 800ms linear infinite normal forwards;
+animation-delay: 0.6s;
+}
+
+
+
+@keyframes Pulse1 { 
+0% {transform: scale(1)} 
+10% {transform: scale(1.05)} 
+100% {transform: scale(1)} 
+}
+
+@keyframes Pulse2 { 
+0% {transform: scale(1)} 
+10% {transform: scale(1.2)} 
+100% {transform: scale(1)} 
+}
+]]>
+    </style>
+
+    <path id="Shape" class="st0" d="M255.1,46.9C132.6,46.9,33,134.9,33,242.9c0,45.7,18.1,89.9,51,125c6.5,26.8-1.4,55.3-21,74.9
+                                    c-8.2,8.2-2.4,22.3,9.2,22.3c37.2,0,73.1-14.6,99.8-40.3c26.4,9.4,54.3,14.2,83.1,14.2c122.5,0,223.9-87.9,223.9-196
+                                    S377.6,46.9,255.1,46.9z"/>
+    <circle id="Point3" class="st1" cx="361.4" cy="242.9" r="39.2"/>
+    <circle id="Point2" class="st1" cx="256.9" cy="242.9" r="39.2"/>
+    <circle id="Point1" class="st1" cx="152.3" cy="242.9" r="39.2"/>
+
+</svg>
